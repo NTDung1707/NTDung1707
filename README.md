@@ -25,9 +25,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/NTDung1707/NTDung1707/blob/output/github-contribution-grid-snake.gif)
+
+
 
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
