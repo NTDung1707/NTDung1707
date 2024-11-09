@@ -18,7 +18,6 @@
 </div>
 
 
-![snake gif](https://github.com/NTDung1707/NTDung1707/blob/output/github-contribution-grid-snake.gif)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=NTDung1707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
